@@ -4,3 +4,4 @@ Department: Computer Science Engineering
 College: CVR College of Engineering, Manguluru, RR, Hydrabad
 
 Skill Development Programm on Web Engineering
+From 2nd Jan to 13 Jan 2023, Organized by Department of CSE, collaboration with placement cell
